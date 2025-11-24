@@ -19,5 +19,5 @@ I'm a Technical Account Manager and API Integration Specialist with 6+ years of 
 - Technical documentation samples  
 
 ### 🌐 Connect With Me
-**LinkedIn:** (add your link here)
+**LinkedIn:** www.linkedin.com/in/taffy-joseph-dcruz-6bb48216b
 
