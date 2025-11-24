@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Taffy Joseph Dcruz
 
-<!--
-**taffyjdcruz-afk/taffyjdcruz-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technical Account Manager and API Integration Specialist with 6+ years of experience bridging engineering teams and developer communities.
 
-Here are some ideas to get you started:
+### 🔧 What I Do
+- Build and test API integrations (REST APIs, webhooks, JSON)
+- Create technical documentation, tutorials, and demo workflows
+- Support developers through debugging, API validation, and platform enablement
+- Work with Python, JavaScript, Postman, and API tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- Improving my Python & JavaScript skills
+- Learning GitHub workflows and developer tools
+- Building small demo projects for APIs and integrations
+
+### 🧪 Sample Projects (Coming Soon)
+- API workflow demo in Python  
+- JavaScript fetch() / Axios API examples  
+- Technical documentation samples  
+
+### 🌐 Connect With Me
+**LinkedIn:** (add your link here)
+
